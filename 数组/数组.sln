@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组", "数组\数组.vcxproj", "{BE586D8A-9D85-4487-B386-C4966EA267CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE586D8A-9D85-4487-B386-C4966EA267CE}.Debug|x64.ActiveCfg = Debug|x64
+		{BE586D8A-9D85-4487-B386-C4966EA267CE}.Debug|x64.Build.0 = Debug|x64
+		{BE586D8A-9D85-4487-B386-C4966EA267CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE586D8A-9D85-4487-B386-C4966EA267CE}.Debug|x86.Build.0 = Debug|Win32
+		{BE586D8A-9D85-4487-B386-C4966EA267CE}.Release|x64.ActiveCfg = Release|x64
+		{BE586D8A-9D85-4487-B386-C4966EA267CE}.Release|x64.Build.0 = Release|x64
+		{BE586D8A-9D85-4487-B386-C4966EA267CE}.Release|x86.ActiveCfg = Release|Win32
+		{BE586D8A-9D85-4487-B386-C4966EA267CE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {283E2B25-34DC-4D02-9710-59DEAC83FD89}
+	EndGlobalSection
+EndGlobal
